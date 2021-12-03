@@ -69,13 +69,13 @@
 
                 {
                     "title": "Apni Dukan",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/apnidukan.png",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/apnidukan.jpg",
                     "hoverCover": "",
                     "external": "https://github.com/kvnal/apni-dukan"
                 },
                 {
                     "title": "Catch Me If You Can",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/cmiyc2.png",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/cmiyc.png",
                     "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/cmiyc2.png",
                     "external": "https://kvnal.github.io/catch-me-if-you-can/"
                 },
