@@ -29,67 +29,84 @@
             "title": "Some Things I’ve Built",
             "featured": [
                 {
-                    "title": "Edɑnce",
-                    "cover": "/assets/edlance.jpeg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
+                    "title": "Sanskriti",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sanskriti.jpeg",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sanskriti2.jpeg",
+                    "external": "https://github.com/kvnal/Sanskriti"
                 },
                 {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
+                    "title": "Edlance",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/edlance.jpeg",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/edlance2.jpeg",
+                    "external": "http://test-edlance.herokuapp.com/"
+                },
+                {
+                    "title": "Sentinel",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sentinel.jpeg",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sentinel2.jpeg",
+                    "external": "https://github.com/kvnal/Sentinel-v1.0"
+                },
+                {
+                    "title": "Safe Home",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/safehome.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/safehome2.png",
+                    "external": "/"
                 }
             ],
             "projects": [
                 {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
+                    "title": "Spodify Jersey Ed.",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/spodifyJersey.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/spodifyJersey2.png",
+                    "external": "https://kvnal.github.io/spodify-jersey-edition/"
                 },
                 {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
+                    "title": "Only Cheems",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/onlycheems.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/onlycheems2.png",
+                    "external": "https://onlycheems.herokuapp.com"
+                },
+
+                {
+                    "title": "Apni Dukan",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/apnidukan.png",
+                    "hoverCover": "",
+                    "external": "https://github.com/kvnal/apni-dukan"
                 },
                 {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
+                    "title": "Catch Me If You Can",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/cmiyc2.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/cmiyc2.png",
+                    "external": "https://kvnal.github.io/catch-me-if-you-can/"
+                },
+                
+                {
+                    "title": "Fitstep App",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/fitstep.jpg",
+                    "hoverCover": "",
+                    "external": "https://github.com/kvnal/fitstep"
+                },
+
+                {
+                    "title": "Riddim Ai",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/riddimai.jpg",
+                    "hoverCover": "",
+                    "external": "https://kvnal.github.io/riddim-ai/"
+                },
+                
+                {
+                    "title": "Words Here.",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/words.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/words2.png",
+                    "external": "https://kvnal.github.io/words/"
                 },
                 {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
-                },
-                {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
-                },
-                {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
-                },
-                {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
-                },
-                {
-                    "title": "hello",
-                    "cover": "https://image.freepik.com/free-vector/colorful-palm-silhouettes-background_52683-39818.jpg",
-                    "hoverCover": "https://i.imgur.com/50NA7vr.gif",
-                    "external": ""
+                    "title": "Spodify",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/projects/spodify.png",
+                    "hoverCover": "",
+                    "external": "https://kvnal.github.io/spodify/"
                 }
+
             ]
         },
         "awards": {
