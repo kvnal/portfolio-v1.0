@@ -25,7 +25,9 @@
                 "Node.js",
                 "MongoDB",
                 "GraphQL",
-                "JavaScript/TypeScript",
+                "JavaScript",
+                "TypeScript",
+                "Kotlin",
                 "Python",
                 "C++"
             ]
@@ -35,14 +37,14 @@
             "featured": [
                 {
                     "title": "Sanskriti",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sanskriti.jpeg",
-                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sanskriti2.jpeg",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sanskriti.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sanskriti2.png",
                     "external": "https://github.com/kvnal/Sanskriti"
                 },
                 {
                     "title": "Edlance",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/edlance.jpeg",
-                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/edlance2.jpeg",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/edlance.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/edlance2.png",
                     "external": "http://test-edlance.herokuapp.com/"
                 },
                 {
@@ -67,20 +69,20 @@
                 },
                 
                 {
-                    "title": "Fitstep App",
+                    "title": "Fitstep",
                     "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/fitstep.png",
                     "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/fitstep2.png",
                     "external": "https://github.com/kvnal/fitstep"
                 },
                 {
-                    "title": "Spodify Jersey Ed.",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodifyJersey.png",
-                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodifyJersey2.png",
+                    "title": "Spodify Jersey Edition",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodifyJ.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodifyJ2.png",
                     "external": "https://kvnal.github.io/spodify-jersey-edition/"
                 },
                 {
                     "title": "Apni Dukan",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/apnidukan.jpg",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/apnidukan.png",
                     "hoverCover": "",
                     "external": "https://github.com/kvnal/apni-dukan"
                 },
@@ -94,7 +96,7 @@
 
                 {
                     "title": "Riddim Ai",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/riddimai.jpg",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/riddimai.png",
                     "hoverCover": "",
                     "external": "https://kvnal.github.io/riddim-ai/"
                 },
@@ -121,19 +123,19 @@
                     "title": "Hackathons",
                     "list": [
                         {
-                            "title":"Most Creative Use of APIs winner at HackNITR3.0 • NIT Rourkela (10/2021)",
+                            "title":"First runners up at Hacked-to-Hired 2021 Hackathon • Crystal Delta",
                             "external":""
                         },
                         {
-                            "title":"First runners up at Hacked-to-Hired 2021 Hackathon • Crystal Delta (07/2021)",
+                            "title":"Let's Stay Safe Winner at HackVerse2.0 • NITK Surathkal",
                             "external":""
                         },
                         {
-                            "title":"Best Social Good hack at HackNITR2.0 • NIT Rourkela (03/2021)",
+                            "title":"Best Social Good hack at HackNITR2.0 • NIT Rourkela",
                             "external":""
                         },
                         {
-                            "title":"Let's Stay Safe Winner at HackVerse2.0 • NITK Surathkal (02/2021)",
+                            "title":"Most Creative Use of APIs winner at HackNITR3.0 • NIT Rourkela",
                             "external":""
                         }
                     ]
