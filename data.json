@@ -11,18 +11,23 @@
             }
         },
         "socials": {
-            "mail": "",
-            "github": "",
-            "linkedin": "",
-            "instagram": "",
-            "twitter": ""
+            "mail": "ksnkunal@gmail.com",
+            "github": "https://github.com/kvnal",
+            "linkedin": "https://www.linkedin.com/in/kunal-singh-naruka/",
+            "instagram": "#0",
+            "twitter": "#0"
         },
         "skills": {
             "title": "Here are a few technologies I’ve been working with recently:",
             "list": [
-                "aa",
-                "bb",
-                "cc"
+                "React",
+                "Angular",
+                "Node.js",
+                "MongoDB",
+                "GraphQL",
+                "JavaScript/TypeScript",
+                "Python",
+                "C++"
             ]
         },
         "projects": {
@@ -42,31 +47,37 @@
                 },
                 {
                     "title": "Sentinel",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sentinel.jpeg",
-                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sentinel2.jpeg",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sentinel.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/sentinel2.png",
                     "external": "https://github.com/kvnal/Sentinel-v1.0"
                 },
                 {
                     "title": "Safe Home",
                     "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/safehome.png",
                     "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/featured/safehome2.png",
-                    "external": "/"
+                    "external": "#0"
                 }
             ],
             "projects": [
+                {
+                    "title": "Only Cheems",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/oc.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/oc2.png",
+                    "external": "https://onlycheems.herokuapp.com"
+                },
+                
+                {
+                    "title": "Fitstep App",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/fitstep.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/fitstep2.png",
+                    "external": "https://github.com/kvnal/fitstep"
+                },
                 {
                     "title": "Spodify Jersey Ed.",
                     "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodifyJersey.png",
                     "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodifyJersey2.png",
                     "external": "https://kvnal.github.io/spodify-jersey-edition/"
                 },
-                {
-                    "title": "Only Cheems",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/onlycheems.png",
-                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/onlycheems2.png",
-                    "external": "https://onlycheems.herokuapp.com"
-                },
-
                 {
                     "title": "Apni Dukan",
                     "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/apnidukan.jpg",
@@ -80,12 +91,6 @@
                     "external": "https://kvnal.github.io/catch-me-if-you-can/"
                 },
                 
-                {
-                    "title": "Fitstep App",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/fitstep.jpg",
-                    "hoverCover": "",
-                    "external": "https://github.com/kvnal/fitstep"
-                },
 
                 {
                     "title": "Riddim Ai",
@@ -95,16 +100,16 @@
                 },
                 
                 {
-                    "title": "Words Here.",
-                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/words.png",
-                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/words2.png",
-                    "external": "https://kvnal.github.io/words/"
-                },
-                {
                     "title": "Spodify",
                     "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/spodify.png",
                     "hoverCover": "",
                     "external": "https://kvnal.github.io/spodify/"
+                },
+                {
+                    "title": "Words Here.",
+                    "cover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/words.png",
+                    "hoverCover": "https://raw.githubusercontent.com/kvnal/portfolio/API/assets/projects/words2.png",
+                    "external": "https://kvnal.github.io/words/"
                 }
 
             ]
@@ -113,18 +118,22 @@
             "title": "HONORS & AWARDS",
             "0": 
                 {
-                    "title": "hackathons",
+                    "title": "Hackathons",
                     "list": [
                         {
-                            "title":"one two three four",
+                            "title":"Most Creative Use of APIs winner at HackNITR3.0 • NIT Rourkela (10/2021)",
                             "external":""
                         },
                         {
-                            "title":"one two three four",
+                            "title":"First runners up at Hacked-to-Hired 2021 Hackathon • Crystal Delta (07/2021)",
                             "external":""
                         },
                         {
-                            "title":"one two three four",
+                            "title":"Best Social Good hack at HackNITR2.0 • NIT Rourkela (03/2021)",
+                            "external":""
+                        },
+                        {
+                            "title":"Let's Stay Safe Winner at HackVerse2.0 • NITK Surathkal (02/2021)",
                             "external":""
                         }
                     ]
